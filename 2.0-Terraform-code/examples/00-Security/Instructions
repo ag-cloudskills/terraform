@@ -1,0 +1,3 @@
+- install aws cli and set up credentials locally 
+- Never set up credentials in providers.tf
+- Set up the access to two accounts using profile 
